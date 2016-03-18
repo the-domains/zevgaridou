@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-18T19:24:25.296Z'
-dateModified: '2016-03-18T19:15:35.293Z'
+datePublished: '2016-03-18T19:35:44.974Z'
+dateModified: '2016-03-18T19:35:20.817Z'
 title: in the everyday
 author: []
+sourcePath: _posts/2016-03-18-in-the-everyday.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-18-in-the-everyday.md
-published: true
 url: in-the-everyday/index.html
 _type: Article
 
