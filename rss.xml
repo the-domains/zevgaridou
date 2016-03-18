@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[nomatei]]></title>
         <description><![CDATA[nomatei]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/zevgaridou/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 19:24:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Mar 2016 19:24:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zevgaridou/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[in the everyday]]></title>
+            <description><![CDATA[<article><h1>in the everyday</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c993e13bb6c58b8a87a3c80ff05ab6a524e884f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/zevgaridou/in-the-everyday/index.html</link>
+            <guid isPermaLink="false">a544fa4a-76f0-4edf-bb32-611e7c423aff</guid>
+            <pubDate>Fri, 18 Mar 2016 19:24:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Radio Roasters Coffee]]></title>
             <description><![CDATA[<article><h1>Radio Roasters Coffee</h1><p>Packaging of the World is a package design inspiration archive showcasing the best, most interesting and creative work worldwide.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b363005f4a032ef86a0de36d4783e42835984b27.jpg"></article>]]></description>
