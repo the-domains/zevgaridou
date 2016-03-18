@@ -1,0 +1,28 @@
+name: zevgaridou
+favicon: null
+layout_spectrum: 0.15356460073962808
+typography_spectrum: 0.8153369529172778
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.313699688995257
+  lightness: 0.05835691513493657
+  saturation: 0.1297721758019179
+  rhythmicContrast: 0.6022435834165663
+purpose: []
