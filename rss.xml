@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[nomatei]]></title>
+        <description><![CDATA[nomatei]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 18 Mar 2016 19:24:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Radio Roasters Coffee]]></title>
+            <description><![CDATA[<article><h1>Radio Roasters Coffee</h1><p>Packaging of the World is a package design inspiration archive showcasing the best, most interesting and creative work worldwide.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b363005f4a032ef86a0de36d4783e42835984b27.jpg"></article>]]></description>
+            <link>http://www.packagingoftheworld.com/2016/03/radio-roasters-coffee.html</link>
+            <guid isPermaLink="false">b52d83cc-4ad3-41bb-bfad-06f17b5b75f4</guid>
+            <pubDate>Fri, 18 Mar 2016 19:24:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
